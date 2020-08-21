@@ -2,9 +2,8 @@
 Dominic Hupp's Ohio Northern ECCS1611 Repository. 
 This repository will serve as Dominic's Programming 1 Github Repo for ECCS1611 at Ohio Northern University with Dr. Stephany.
 The class is C++ based and this will be reflected in the code & documentation listed here
-
-# Contents
 ---
+# Contents
 ## HelloWorld
 This folder contains a simple hello world program in C++ that was created to initialize this repo from the first day of class
 
