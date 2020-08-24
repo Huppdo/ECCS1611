@@ -13,10 +13,12 @@ This folder contains a simple hello world program in C++ that was created to ini
 This folder contains all of my raw lab submission files
 #### Lab One
 > Contains the first lab we did in this class, most of the code was provided and I was required to fix the calculations as well as forcing uppercase from C/F
-#### Prelab Two
+#### Prelab Two (01)
 > Required me to write a few small demo programs to release the lab early
 #### Lab Two
 > Required me to get a username from cin, sum up the first five numbers starting at one, and creating the product of the first five numbers starting at one
+#### Prelab Three (02)
+> Used math operators and cin to calculate the cost of fencing for rails & posts
 
 ## PracticeProblems
 This folder contains in class & book practice problems
