@@ -29,3 +29,8 @@ This folder contains in class & book practice problems
 This folder contains all the extra credit assignments that were assigned
 #### BirthdayInput
 > Using provided code, I had to solve some intentional error from lecture on Wednesday, August 19th, 2020. This required me to understand .substr(), cin/getline, and I also chose to write a small function to strip out whitespace.
+
+## MPs
+This folder contains the solutions and test cases for the major programming projects for this class
+#### MP1
+> I had to design a system to calculate the cost of donuts and provide the store with the proper amount of change to return to the customer. This project was all encompassing for the first 1/3 of the semester
