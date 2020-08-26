@@ -19,6 +19,8 @@ This folder contains all of my raw lab submission files
 > Required me to get a username from cin, sum up the first five numbers starting at one, and creating the product of the first five numbers starting at one
 #### Prelab Three (02)
 > Used math operators and cin to calculate the cost of fencing for rails & posts
+#### Lab Three
+> Used math operators to solve various math functions, calculated the total cost of owning a car, and calculated shipping costs for a bookstore
 
 ## PracticeProblems
 This folder contains in class & book practice problems
