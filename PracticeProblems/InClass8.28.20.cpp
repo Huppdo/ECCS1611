@@ -64,6 +64,9 @@ int main()
     } else if (numericalGrade <= 100) {
         cout << "The student recieved an A" << endl;
     }
+    else if (numericalGrade > 100) {
+        cout << "The student recieved an A and extra credit" << endl;
+    }
     cout << endl << endl;
 
     //Ask the user to enter an int in the range 1-9. Display congrats if successful, an error if not
@@ -94,5 +97,20 @@ int main()
     else {
         cout << "Error! Your character is not in the provided range" << endl;
     }
+    /*switch (userChar) {
+        case 'a':
+        case 'b':
+            cout << "Correct Answer!" << endl;
+            break;
+        case 'c':
+        case 'd':
+        case 'e':
+            cout << "Wrong Answer!" << endl;
+            break;
+        default:
+            cout << "Error! Your character is not in the provided range" << endl;
+    }*/
     cout << endl << endl;
+
+
 }
