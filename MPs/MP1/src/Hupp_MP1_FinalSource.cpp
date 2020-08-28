@@ -1,6 +1,6 @@
 //Dominic Hupp - ECCS1611 - MP1 - 8/27/20
 /*
-	This program allows for the fictional Jim’s Donut Shop in Vandalia to compute the amount that the customer owes
+	This program allows for the fictional Jimâ€™s Donut Shop in Vandalia to compute the amount that the customer owes
 	to the store and how much money the store needs to return in change.
 */
 
@@ -136,7 +136,7 @@ int main() {
 		cout << nickle_change << " nickle, ";
 	}
 	else if (nickle_change > 1) {
-		cout << nickle_change << " nickles,";
+		cout << nickle_change << " nickles, ";
 	}
 	if (penny_change == 1) {
 		cout << penny_change << " penny, ";
