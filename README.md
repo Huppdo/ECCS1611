@@ -26,6 +26,8 @@ This folder contains all of my raw lab submission files
 This folder contains in class & book practice problems
 #### InClass8.21.20
 > This assignment contains six various practice problems involving cin/cout statements, string mutation, and mod.
+#### InClass8.28.20
+> This assignment contains six various practice problems involving if statements and string manipulation.
 
 ## ExtraCredit
 This folder contains all the extra credit assignments that were assigned
