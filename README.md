@@ -21,6 +21,9 @@ This folder contains all of my raw lab submission files
 > Used math operators and cin to calculate the cost of fencing for rails & posts
 #### Lab Three
 > Used math operators to solve various math functions, calculated the total cost of owning a car, and calculated shipping costs for a bookstore
+#### Prelab 03
+> Determined the tax rate with rounding code needed for MP1
+
 
 ## PracticeProblems
 This folder contains in class & book practice problems
