@@ -23,6 +23,8 @@ This folder contains all of my raw lab submission files
 > Used math operators to solve various math functions, calculated the total cost of owning a car, and calculated shipping costs for a bookstore
 #### Prelab 03
 > Determined the tax rate with rounding code needed for MP1
+#### Lab Four
+> Determined matter state of water at a given temp, find the largest number of 3 doubles, get digits in integer, and calculate change needed
 
 
 ## PracticeProblems
