@@ -25,6 +25,10 @@ This folder contains all of my raw lab submission files
 > Determined the tax rate with rounding code needed for MP1
 #### Lab Four
 > Determined matter state of water at a given temp, find the largest number of 3 doubles, get digits in integer, and calculate change needed
+#### Prelab 04
+> Determined how to check if a credit card number is valid
+#### Lab Five
+> Used loops to calculate max/min/avg, combined loops with math operations, and convert base 10 to base 2
 
 
 ## PracticeProblems
