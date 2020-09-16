@@ -29,6 +29,10 @@ This folder contains all of my raw lab submission files
 > Determined how to check if a credit card number is valid
 #### Lab Five
 > Used loops to calculate max/min/avg, combined loops with math operations, and convert base 10 to base 2
+#### Prelab 05
+> Practiced using iteration to achieve various results
+#### Lab Six
+> Used loops to calculate count/avg/std, and print out diamonds of variable size lengths
 
 
 ## PracticeProblems
