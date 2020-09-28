@@ -158,6 +158,7 @@ char getUserInput(void) {
 	do {
 		cout << "Would you like to (r)oll again or (s)top?  ";
 		cin >> userValue;
+		userValue = tolower(userValue);
 	} while (userValue != 'r' && userValue != 's');
 
 	return userValue;
