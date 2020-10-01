@@ -53,3 +53,5 @@ This folder contains the solutions and test cases for the major programming proj
 > I had to design a system to calculate the cost of donuts and provide the store with the proper amount of change to return to the customer. This project was all encompassing for the first 1/3 of the semester
 #### MP2
 > Design a simulation of the dice game 'Roll em Pigs' that allows for a human to play against the computer
+#### MP3
+> Design a player versus player version of tic-tac-toe that can play multiple games and track scores across games
