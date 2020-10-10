@@ -33,6 +33,10 @@ This folder contains all of my raw lab submission files
 > Practiced using iteration to achieve various results
 #### Lab Six
 > Used loops to calculate count/avg/std, and print out diamonds of variable size lengths
+#### Lab Seven
+> Used functions to iterate through various number tasks such as calculating average, first digit, last digit, etc
+#### Lab Eight
+> Calculated the number of vowels in strings, words in strings, and converted roman numerals to decimal values
 
 
 ## PracticeProblems
