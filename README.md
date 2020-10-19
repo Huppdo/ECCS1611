@@ -45,6 +45,8 @@ This folder contains in class & book practice problems
 > This assignment contains six various practice problems involving cin/cout statements, string mutation, and mod.
 #### InClass8.28.20
 > This assignment contains six various practice problems involving if statements and string manipulation.
+#### InClass10.19.20
+> This assignment revolved around creating classes while using both public and private members.
 
 ## ExtraCredit
 This folder contains all the extra credit assignments that were assigned
