@@ -37,6 +37,8 @@ This folder contains all of my raw lab submission files
 > Used functions to iterate through various number tasks such as calculating average, first digit, last digit, etc
 #### Lab Eight
 > Calculated the number of vowels in strings, words in strings, and converted roman numerals to decimal values
+#### Lab Nine
+> Created an airplane seat assignment system, credit card validation, and vector combination
 
 
 ## PracticeProblems
